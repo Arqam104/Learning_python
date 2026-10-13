@@ -1,0 +1,30 @@
+[
+    {
+        "title": "nisekoi",
+        "total_eps": 34,
+        "eps_watched": 34,
+        "status": "completed",
+        "rating": 9.5
+    },
+    {
+        "title": "Dusk Maiden of Amnesia",
+        "total_eps": 12,
+        "eps_watched": 12,
+        "status": "completed",
+        "rating": 9.0
+    },
+    {
+        "title": "Elfen Lied ",
+        "total_eps": 13,
+        "eps_watched": 13,
+        "status": "completed",
+        "rating": 9.0
+    },
+    {
+        "title": "darwin's game",
+        "total_eps": 11,
+        "eps_watched": 11,
+        "status": "completed",
+        "rating": 8.0
+    }
+]
